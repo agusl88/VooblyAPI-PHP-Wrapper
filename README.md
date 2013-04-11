@@ -35,9 +35,8 @@ PHP 5.x
 Changelog
 =========
 
-Version 1.0 
-
--Initial Release
+- Version 1.0 
+Initial Release
 
 License
 =======
