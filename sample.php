@@ -8,10 +8,10 @@ Ladders ID List
 	Begginners DM 		: 
 	Begginners CS 		: 
 	RM Overall 			: 21
-	RM 1vs1 			: 
+	RM 1vs1 			: 131
 	RM 1vs1 (old)		: 13
+	RM Team Game 		: 132
 	RM General (old)    : 8
-	RM Team Game 		: 
 	RM Clans 			: 
 	DM (DeathMatch)	    : 9
 	AOFE Overall 		: 
@@ -27,31 +27,28 @@ Ladders ID List
 	CS Castle Blood 	: 
 */
 
-//First of all we need to include the class, and create a new instance. 
 include('vooblyAPI.php');
-$vooblyCon = new vooblyAPI();
+$vooblyCon = new vooblyAPI(new standarParser(15)); //We create a new vooblyAPI instance with an implementation of the urlParser interface by parameter ("15" is the timeout value for the connection in seconds)
 
 //=============================Example 1==================================
 // Get the ID and Rating of one specific ladder from a list of nicks
 
-$nicks = array('TheViper', 'dogao', 'Cyclops');
-$ladder_id = 21;
+$nicks = array('TheViper', 'dogao', 'Cyclops', '__62_Tealc_Arg', 'ManDraKE_');
+$ladder_id = 8;
 
 //Get Users ID's
 $users_id = $vooblyCon->findUsers($nicks);
 
 //Array cleanup
 $clean_ids = [];
-foreach($users_id as $id)
-{
+foreach($users_id as $id){
 	$clean_ids[] = $id['uid'];
 }
 
-//Get Ratings data
 try{
-	$ratings = $vooblyCon->getLadderInfo($clean_ids,$ladder_id);
-	?>
-	<h1>Custom Live Ratings Sampple</h1>
+	//Get Ratings data
+	$ratings = $vooblyCon->getLadderInfo($clean_ids,$ladder_id);?>
+	<h1>Custom Live Ratings Test</h1>
 	<table>
 	  <thead>
 	    <tr>
@@ -72,11 +69,13 @@ try{
 }
 
 //=============================Example 2==================================
-//Display a Top 5 from RM Overall ladder
+//Display a Top 5 from RM 1vs1 Ladder
+$ladder_id2 = 131;
+$limit = 5; //top 5
 
 try{
-	$top = $vooblyCon->getTop(21,5);?>
-	<h1>Rm Overall Ladder Top 5</h1>
+	$top = $vooblyCon->getTop($ladder_id2,$limit);?>
+	<h1>Top 5 RM 1vs1 Test</h1>
 	<table>
 	  <thead>
 	    <tr>
@@ -93,6 +92,5 @@ try{
 	</table>
 <?php
 } catch (Exception $e) {
-    echo 'Exception: ',  $e->getMessage(), "\n";
-}
+    echo 'Exception: ',  $e->getMessage(), "\n";}
 ?>

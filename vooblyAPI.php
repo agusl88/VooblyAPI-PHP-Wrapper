@@ -19,8 +19,12 @@ class vooblyAPI {
     protected $parser;
     protected $cache;
 
-    public function __construct() {
-        $this->parser = new urlParser();
+    /**
+    * Main constructor
+    * @param urlParser $parserInstance
+    */
+    public function __construct(&$parserInstance) {
+        $this->parser = $parserInstance;
         $this->cache = new simpleCache();
     }
 
@@ -177,7 +181,7 @@ class vooblyAPI {
     protected function parseString($str) {
         $rows = explode("\n", $str);
         $players_data = array();
-        //For to count -1 because the last $row is always empty
+        //For to count-1 because the last $row is always empty
         for ($i = 1; $i < count($rows) - 1; $i++) {
             $players_data[] = explode(',', $rows[$i]);
         }
@@ -198,18 +202,40 @@ class vooblyAPI {
 }
 
 /**
- * Auxiliary class for URL Parsing
+* Interface for define parsers
+*/
+interface urlParser {
+
+    /**
+    * Setter for the $url var
+    * @param string $url
+    */
+    public function setURL($url);
+
+    /**
+    * Fetch the content from the API URL
+    * @return string $url_content
+    */
+    public function parseURL();
+}
+
+/**
+ * Standar implementation for the urlParser interface
  * @author Aldo Agustin Lucchetti - agustin.lucchetti@gmail.com
  * @throws Timeout Exception
  */
-class urlParser {
+class standarParser implements urlParser {
 
     protected $url;
     protected $ctx;
 
-    public function __construct() {
+    /**
+    * Main constructor
+    * @param int $timeout
+    */
+    public function __construct($timeout) {
         $this->ctx= stream_context_create(array('http'=> array(
-        'timeout' => VOOBLY_TIMEOUT
+        'timeout' => $timeout
         )));
     }
 

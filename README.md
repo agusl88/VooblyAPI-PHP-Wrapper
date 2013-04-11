@@ -14,12 +14,14 @@ IMPORTANT: This cache is and API-Level Cache, is not designed for be used as cac
 
 - Auto-Split & Auto-Merge for large querys: When you are doing a query with a large uidlist (>30), Voobly server won't response your request. This PHP implementation auto-split the query, and auto-merge the results making your life easy.
 
+- Object-oriented design
+
 Installation
 ============
 
 1. Copy all the content of the package to your server.
 2. Create a cache/ folder (must be writeable, chmod 777).
-3. Open config.php and replace ENTER_YOUR_KEY_HERE for your API Key.
+3. Open config.php and replace YOUR_KEY_HERE for your API Key. You can also edit the cache folder path if is necessary, by editing the CACHE_DIR value.
 4. Point your browser to sample.php to see if it work.
 
 How to USE
@@ -27,16 +29,20 @@ How to USE
 
 See sample.php for code samples, it's very easy to use.
 
-Requeriments
+Requirements
 ============
 
 PHP 5.x
+allow_url_fopen enable in php.ini
 
 Changelog
 =========
 
 - Version 1.0 
 Initial Release
+
+- Version 1.1
+Improved OO Design
 
 License
 =======
