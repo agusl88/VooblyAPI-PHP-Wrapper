@@ -12,7 +12,7 @@ Features
 - Integrated Cache System: Simple but effective cache system. With this you won't do more than a few calls per day even with in a high traffic site, so you don't have to worry about being blocked for doing more than 1000 daily calls.
 IMPORTANT: This cache is and API-Level Cache, is not designed for be used as cache for your main application.
 
-- Auto-Split & Auto-Merge for large querys: When you are doing a query with a large uidlist (>30), Voobly server won't response your request. This PHP implementation auto-split the query, and auto-merge the results making your life easy.
+- Auto-Split & Auto-Merge for large querys: When you are doing a query with a large uidlist (>30), Voobly server won't response your request. This PHP implementation auto-split the query, and auto-merge the results making your life easier.
 
 - Object-oriented design
 
@@ -33,6 +33,7 @@ Requirements
 ============
 
 PHP 5.x
+
 allow_url_fopen enable in php.ini
 
 Changelog
