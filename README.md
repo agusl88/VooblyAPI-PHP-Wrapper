@@ -7,10 +7,10 @@ This is a PHP implementation for the Voobly Public API (http://www.voobly.com/pa
 Features
 ========
 
-- Support for all the API calls: All the aviable API calls are fully implemented.
+- Support for all the API calls: All the available API calls are fully implemented.
 
-- Integrated Cache System: Simple but effective cache system. With this you won't do more than a few calls per day even with in a hight traffic site, so you don't have to worry about being blocked for doing for than 1000 daily calls.
-IMPORTANT: This cache is and API-Level Cache, is not designed for be used as cache for your application.
+- Integrated Cache System: Simple but effective cache system. With this you won't do more than a few calls per day even with in a high traffic site, so you don't have to worry about being blocked for doing more than 1000 daily calls.
+IMPORTANT: This cache is and API-Level Cache, is not designed for be used as cache for your main application.
 
 - Auto-Split & Auto-Merge for large querys: When you are doing a query with a large uidlist (>30), Voobly server won't response your request. This PHP implementation auto-split the query, and auto-merge the results making your life easy.
 
@@ -36,6 +36,7 @@ Changelog
 =========
 
 Version 1.0 
+
 -Initial Release
 
 License
