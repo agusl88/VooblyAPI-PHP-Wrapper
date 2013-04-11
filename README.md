@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Voobly-API-PHP-Class-Wrapper
 ============================
 
@@ -42,7 +42,3 @@ License
 =======
 
 This package is distributed under the GNU Public License v2 - http://www.gnu.org/licenses/gpl-2.0.txt
-=======
-VooblyAPI-PHP-Wrapper
-=====================
->>>>>>> 1a0f3f477652f38161c1eb7d4dad653af4381963
