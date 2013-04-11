@@ -1,5 +1,5 @@
 
-Voobly-API-PHP-Class-Wrapper
+Voobly-API-PHP-Wrapper
 ============================
 
 This is a PHP implementation for the Voobly Public API (http://www.voobly.com/pages/view/147/External-API-Documentation). 
