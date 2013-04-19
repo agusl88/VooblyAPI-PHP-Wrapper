@@ -45,6 +45,10 @@ Initial Release
 - Version 1.1
 Improved OO Design
 
+- Version 1.2
+Added Ladder ID's List (ladder_ids.txt)
+Removed deprecated constant in config.php
+
 License
 =======
 
