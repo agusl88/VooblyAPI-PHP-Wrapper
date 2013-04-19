@@ -1,0 +1,119 @@
+Random Map	Age of Empires: The Rise of Rome - ID: 6
+RM 1v1	Age of Empires: The Rise of Rome - ID: 62
+RM Teams/FFA	Age of Empires: The Rise of Rome - ID: 63
+Death Match	Age of Empires: The Rise of Rome - ID: 64
+Clans	Age of Empires: The Rise of Rome - ID: 65
+Overall	Age of Empires: The Rise of Rome - ID: 66
+Random Map 2011-2012	Age of Empires II: Age of Kings - ID: 52
+Death Match 2011-2012	Age of Empires II: Age of Kings - ID: 53
+Overall	Age of Empires II: Age of Kings - ID: 54
+Clans	Age of Empires II: Age of Kings - ID: 56
+Custom Scenario OLD	Age of Empires II: Age of Kings - ID: 126
+Castle Blood OLD	Age of Empires II: Age of Kings - ID: 127
+VCOM Tournaments	Age of Empires II: Age of Kings - ID: 133
+Random Map	Age of Empires II: Age of Kings - ID: 139
+Death Match	Age of Empires II: Age of Kings - ID: 140
+Castle Blood	Age of Empires II: Age of Kings - ID: 141
+Custom Scenario	Age of Empires II: Age of Kings - ID: 142
+VCOM Ladder	Age of Empires II: Age of Kings - ID: 152
+RM - General (2007 to 2012)	Age of Empires II: The Conquerors - ID: 8
+Death Match	Age of Empires II: The Conquerors - ID: 9
+CS - Old (DON'T USE)	Age of Empires II: The Conquerors - ID: 10
+RM - 1v1 (2011 to 2012)	Age of Empires II: The Conquerors - ID: 13
+RM - Clans	Age of Empires II: The Conquerors - ID: 14
+CS - Clans	Age of Empires II: The Conquerors - ID: 15
+CS - CBA	Age of Empires II: The Conquerors - ID: 16
+CS - Bloods	Age of Empires II: The Conquerors - ID: 18
+CS - Overall	Age of Empires II: The Conquerors - ID: 20
+RM - Overall	Age of Empires II: The Conquerors - ID: 21
+Blacksmith Blood 2v2	Age of Empires II: The Conquerors - ID: 94
+TTF League	Age of Empires II: The Conquerors - ID: 95
+Veteran Blood TG	Age of Empires II: The Conquerors - ID: 96
+CBX League TG	Age of Empires II: The Conquerors - ID: 97
+TTD II TG	Age of Empires II: The Conquerors - ID: 98
+CS - Europe	Age of Empires II: The Conquerors - ID: 100
+Beginners RM	Age of Empires II: The Conquerors - ID: 101
+Beginners DM	Age of Empires II: The Conquerors - ID: 102
+Overall	Age of Empires II: The Conquerors - ID: 104
+Beginners CS unused	Age of Empires II: The Conquerors - ID: 105
+Beginners CS	Age of Empires II: The Conquerors - ID: 106
+Deathrow 1v1	Age of Empires II: The Conquerors - ID: 107
+AoK Heaven	Age of Empires II: The Conquerors - ID: 108
+CS - Castle Blood	Age of Empires II: The Conquerors - ID: 110
+League SS Accel	Age of Empires II: The Conquerors - ID: 111
+CS - Tournament	Age of Empires II: The Conquerors - ID: 112
+CS - Alternative	Age of Empires II: The Conquerors - ID: 119
+CS - CBA Hero	Age of Empires II: The Conquerors - ID: 120
+World Map League TG	Age of Empires II: The Conquerors - ID: 122
+League: Deer Lure	Age of Empires II: The Conquerors - ID: 124
+CBA Khan League	Age of Empires II: The Conquerors - ID: 125
+King of Towers	Age of Empires II: The Conquerors - ID: 128
+TTF	Age of Empires II: The Conquerors - ID: 129
+Hold The Flag League	Age of Empires II: The Conquerors - ID: 130
+RM - 1v1	Age of Empires II: The Conquerors - ID: 131
+RM - Team Games	Age of Empires II: The Conquerors - ID: 132
+Khans League	Age of Empires II: The Conquerors - ID: 134
+Roll The Dice League	Age of Empires II: The Conquerors - ID: 135
+RM AoFE	Age of Empires II: The Conquerors - ID: 143
+AoFE Overall	Age of Empires II: The Conquerors - ID: 144
+AoFE RM - 1v1	Age of Empires II: The Conquerors - ID: 145
+AoFE RM - TG	Age of Empires II: The Conquerors - ID: 146
+VCOM Clan Wars	Age of Empires II: The Conquerors - ID: 148
+AoFE Castle Blood	Age of Empires II: The Conquerors - ID: 149
+AoFE CS	Age of Empires II: The Conquerors - ID: 150
+VCOM Ladder	Age of Empires II: The Conquerors - ID: 151
+SWGB	Star Wars Galactic Battlegrounds - ID: 51
+Random Map	SWGB - Clone Campaigns - ID: 11
+Death Match	SWGB - Clone Campaigns - ID: 136
+Custom Scenario	SWGB - Clone Campaigns - ID: 137
+Overall	SWGB - Clone Campaigns - ID: 138
+General	Microsoft Ants - ID: 50
+Random Map	Age of Empires - ID: 5
+RM 1v1	Age of Empires - ID: 57
+RM Teams/FFA	Age of Empires - ID: 58
+Death Match	Age of Empires - ID: 59
+Clans	Age of Empires - ID: 60
+Overall	Age of Empires - ID: 61
+1v1 Supremacy	AoE III: Vanilla - ID: 32
+1v1 Treaty	AoE III: Vanilla - ID: 35
+TG Supremacy	AoE III: Vanilla - ID: 38
+TG Treaty	AoE III: Vanilla - ID: 42
+Overall	AoE III: Vanilla - ID: 45
+1v1 Deathmatch	AoE III: Vanilla - ID: 79
+TG DeathMatch	AoE III: Vanilla - ID: 80
+1v1 Supremacy	AoE III: The Asian Dynasties - ID: 33
+1v1 Treaty	AoE III: The Asian Dynasties - ID: 36
+TG Supremacy	AoE III: The Asian Dynasties - ID: 40
+TG Treaty	AoE III: The Asian Dynasties - ID: 43
+Overall	AoE III: The Asian Dynasties - ID: 46
+Death Match	AoE III: The Asian Dynasties - ID: 83
+Clan Ladder	AoE III: The Asian Dynasties - ID: 84
+1v1 Supremacy	AoE III: The Warchiefs - ID: 34
+1v1 Treaty	AoE III: The Warchiefs - ID: 37
+TG Supremacy	AoE III: The Warchiefs - ID: 41
+TG Treaty	AoE III: The Warchiefs - ID: 44
+Overall	AoE III: The Warchiefs - ID: 47
+1v1 Supremacy	Age Of Mythology - ID: 26
+TG Supremacy	Age Of Mythology - ID: 27
+1v1 Deathmatch	Age Of Mythology - ID: 28
+TG DeathMatch	Age Of Mythology - ID: 29
+Overall	Age Of Mythology - ID: 30
+Clans	Age Of Mythology - ID: 49
+1v1 Lightning	Age Of Mythology - ID: 81
+TG Lightning	Age Of Mythology - ID: 82
+1v1 Supremacy	Age of Mythology: The Titans - ID: 22
+TG Supremacy	Age of Mythology: The Titans - ID: 23
+1v1 Deathmatch	Age of Mythology: The Titans - ID: 24
+TG Deathmatch	Age of Mythology: The Titans - ID: 25
+Overall	Age of Mythology: The Titans - ID: 31
+Clans	Age of Mythology: The Titans - ID: 48
+1v1 DM League	Age of Mythology: The Titans - ID: 88
+2v2 Supremacy League	Age of Mythology: The Titans - ID: 89
+1v1-TG Lightning	Age of Mythology: The Titans - ID: 121
+Custom Scenarios	Age of Mythology: The Titans - ID: 123
+General (DO NOT USE)	Dawn of War: Soulstorm - ID: 67
+1v1 SoulStorm	Dawn of War: Soulstorm - ID: 72
+2v2 SoulStorm	Dawn of War: Soulstorm - ID: 73
+3v3/4v4 SoulStorm	Dawn of War: - ID: 74
+Overall	Dawn of War: Soulstorm - ID: 75
+The Forgotten Empires - ID: 109

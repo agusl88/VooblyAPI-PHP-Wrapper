@@ -5,5 +5,4 @@ define('API_KEY','YOUR_KEY_HERE'); //Key for API access, get our own for free by
 define('CACHE_DIR','cache/'); //Cache directoy path
 define('CACHE_TTL','43200'); //Time that data will remain in cache in seconds(43200 = 12 hours)
 define('CACHE_EXT','.cache'); //Extension for the cache files
-define('VOOBLY_TIMEOUT',10) // Timeout (in seconds) for remote connection to Voobly Server
 ?>
