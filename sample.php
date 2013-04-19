@@ -2,29 +2,7 @@
 /*
 A couple of simple examples of what you can do with the PHP Class Wrapper for Voobly Public API.
 
-Ladders ID List
-	Beginners Overall 	: 
-	Begginners RM 		: 
-	Begginners DM 		: 
-	Begginners CS 		: 
-	RM Overall 			: 21
-	RM 1vs1 			: 131
-	RM 1vs1 (old)		: 13
-	RM Team Game 		: 132
-	RM General (old)    : 8
-	RM Clans 			: 
-	DM (DeathMatch)	    : 9
-	AOFE Overall 		: 
-	AOFE RM 1vs1 		: 
-	AOFE RM TG 			: 
-	AOFE Castle Blood 	: 
-	AOFE CS 			: 
-	CS Overall 			: 
-	CS CBA 				: 16
-	CS CBA Hero 		: 
-	CS Bloods 			: 18
-	CS Alternative 		: 
-	CS Castle Blood 	: 
+Ladders ID List: check ladders_ids.txt
 */
 
 include('vooblyAPI.php');
