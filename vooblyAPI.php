@@ -6,7 +6,7 @@ include('simpleCache.php');
 /**
  * PHP Class Wrapper for Voobly Public API
  * @author Aldo Agustin Lucchetti / agustin.lucchetti@gmail.com / @agusl88
- * @version 1.0
+ * @version 1.2
  * @license GNU Public License v2 - http://www.gnu.org/licenses/gpl-2.0.txt
  */
 class vooblyAPI {
